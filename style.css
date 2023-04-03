@@ -1,0 +1,60 @@
+img{
+  width: 400px;
+}
+
+body{
+  background: #FFECE6;
+}
+
+h1{
+  background: #EB9281;
+  font-family: 'Bebas Neue', cursive;
+}
+
+p{
+  background: #FFB0AB;
+  font-family: 'Roboto', sans-serif;
+}
+
+a{
+  background: #FFBBD6;
+  color: #E89097;
+  font-family: 'Roboto', sans-serif;
+}
+
+table{
+  background: #FFB0AB;
+  border: 1px solid;
+}
+
+td{
+  background: #FFECE6;
+  border: 1px solid;
+}
+
+iframe{
+  width: 400px;
+  height: 250px;
+  frameborder: 0;
+}
+
+.text {
+  text-decoration: none;
+  color: black;
+  background-color: #FFB0AB;
+}
+
+.text:visited {
+  color: black;
+}
+
+.text2 {
+  text-decoration: none;
+  color: black;
+  background-color: #FFECE6;
+  font-family: none;
+}
+
+.text2:visited {
+  color: black;
+}
